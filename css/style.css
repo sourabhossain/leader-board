@@ -1,0 +1,41 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background: #E5E5E5;
+    font-family: 'Poppins', sans-serif;
+    font-style: 16px;
+}
+
+.nav-color {
+    background: #562EFF;
+}
+
+.navbar img {
+    height: 51px;
+}
+
+.player {
+    font-weight: 600;
+}
+
+.top-text {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-style: normal;
+    font-size: 24px;
+    color: #562EFF;
+    margin-left: 10px;
+}
+
+.player img{
+    width: 56px;
+    height: 56px;
+}
+
+.blog img{
+    width: 177px;
+    height: 117px;
+    cursor: pointer;
+    padding-right: 20px;
+}
